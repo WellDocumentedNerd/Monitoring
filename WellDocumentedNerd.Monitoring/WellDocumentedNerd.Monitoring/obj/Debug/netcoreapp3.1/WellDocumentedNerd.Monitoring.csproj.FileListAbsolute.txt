@@ -1,0 +1,4 @@
+C:\git\WellDocumentedNerd\Monitoring\WellDocumentedNerd.Monitoring\WellDocumentedNerd.Monitoring\bin\Debug\netcoreapp3.1\WellDocumentedNerd.Monitoring.deps.json
+C:\git\WellDocumentedNerd\Monitoring\WellDocumentedNerd.Monitoring\WellDocumentedNerd.Monitoring\bin\Debug\netcoreapp3.1\WellDocumentedNerd.Monitoring.dll
+C:\git\WellDocumentedNerd\Monitoring\WellDocumentedNerd.Monitoring\WellDocumentedNerd.Monitoring\obj\Debug\netcoreapp3.1\WellDocumentedNerd.Monitoring.AssemblyInfoInputs.cache
+C:\git\WellDocumentedNerd\Monitoring\WellDocumentedNerd.Monitoring\WellDocumentedNerd.Monitoring\obj\Debug\netcoreapp3.1\WellDocumentedNerd.Monitoring.AssemblyInfo.cs
